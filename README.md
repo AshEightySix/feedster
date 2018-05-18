@@ -1,4 +1,4 @@
 # feedster
-Website | HTML CSS Bootstrap AngularJs
+Web Application | HTML CSS Bootstrap AngularJs
 
 Social media app
